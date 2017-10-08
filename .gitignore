@@ -1,0 +1,11 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Dependency directories
+node_modules/
+
+# Config and Keys
+server/apiConfig.js
+server/esi-scopes.txt
