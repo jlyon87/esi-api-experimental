@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/jlyon87/esi-api-experimental#readme",
   "dependencies": {
+    "axios": "^0.16.2",
     "express": "^4.16.1"
   }
 }
